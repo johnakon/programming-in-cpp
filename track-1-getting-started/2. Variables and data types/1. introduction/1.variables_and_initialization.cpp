@@ -1,17 +1,17 @@
-// #include <iostream>
+#include <iostream>
 
-// using std::cout;
-// using std::endl;
+using std::cout;
+using std::endl;
 
-// int main() {
+int main() {
 
-//     int balance; // declaring a variable
+    int balance; // declaring a variable
 
-//     cout << "My Account balance is : $" << balance << endl; // return s a garbage value
+    cout << "My Account balance is : $" << balance << endl; // return s a garbage value
 
-//     balance = 1000;  // Initializing variable
+    balance = 1000;  // Initializing variable
 
-//     cout << "My Account balance is : $" << balance << endl;
+    cout << "My Account balance is : $" << balance << endl;
 
-//     return 0;
-// }
+    return 0;
+}

@@ -1,6 +1,4 @@
 
--- Run using the terminal within VS code (below the code)
-
 -- Open up an empty logical_operators_and_bool.cpp file and paste in this code
 
 

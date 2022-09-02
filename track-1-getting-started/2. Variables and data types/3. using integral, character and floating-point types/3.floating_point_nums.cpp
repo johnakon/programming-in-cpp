@@ -9,7 +9,7 @@ int main(){
     cout << "Size of double is : " << sizeof(double) << " bytes." << endl;
     cout << "Size of long double is : " << sizeof(long double) << " bytes." << endl;
 
-    float balance = 1000.64F;
+    float balance = 1000.64F;      // the case does not matter. i.e F, f
     double earth_gravity = 9.807;
     long double plancks_constant = 6.62607004e-34L;
 

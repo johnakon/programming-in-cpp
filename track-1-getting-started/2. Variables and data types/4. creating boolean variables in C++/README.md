@@ -1,12 +1,7 @@
 
--- Open up an empty logical_operators_and_bool.cpp file and paste in this code
-
-
-------------------------------------
-
--- Show and run the code below
-
-// In C++, the data type bool has been introduced to hold a boolean value, true or false.The values true or false have been added as keywords in the C++ language.
+Creating boolean variables in c++
+-----------------------------------
+In C++, the data type bool has been introduced to hold a boolean value, true or false.The values true or false have been added as keywords in the C++ language.
 
 // The default numeric value of true is 1 and false is 0.
 
@@ -38,8 +33,6 @@ int main()
 
 ------------------------------------
 
--- Show and run the code below
-
 -- Implicit conversions convert all non-zero values to true and zero values to false
 
 -- Show the warnings when you build this code
@@ -68,7 +61,6 @@ int main()
 
 ------------------------------------
 
--- Show and run the code below
 -- Logical operators work exactly like C and the values can be assigned to bools
 
 

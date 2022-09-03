@@ -57,7 +57,6 @@ Fixing the warning
     - Compile the code and show the error
       - error: read-only variable is not assignable
         - proverb_1_cstr[0] = 'a';
-        - ~~~~~~~~~~~~~~~~~ ^
     - 1 error generated
 
 

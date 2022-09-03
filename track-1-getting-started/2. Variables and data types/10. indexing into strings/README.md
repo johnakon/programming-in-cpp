@@ -3,7 +3,6 @@ Indexing into strings
 ----------------------
 
 - string_operators_v01.cpp
-
 -- using the operator[] to access characters in a string
 -- accessing out of range characters results in undefined behavior (in our case nothing is printed to screen)
 // https://stackoverflow.com/questions/25687891/string-out-of-range-c

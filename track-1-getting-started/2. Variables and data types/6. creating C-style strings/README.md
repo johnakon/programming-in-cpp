@@ -9,7 +9,7 @@ Creating C style strings
   
   - Reason for this warning here (note the answer with the check mark)
 
-  IMPORTANT LINK:
+  Important link:
   ---------------
   - https://stackoverflow.com/questions/20944784/why-is-conversion-from-string-constant-to-char-valid-in-c-but-invalid-in-c/20944858
 
